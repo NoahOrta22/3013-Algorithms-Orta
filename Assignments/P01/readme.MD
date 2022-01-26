@@ -9,8 +9,11 @@ This program makes a resizable stack.
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
 |   1   | [main.cpp]      | Main driver of my project the program.      |
-|   2   | [nums.dat]      | Numbers to be read in by the Vector         |
-|   3   | [nums_test.out]  | Output file were vectors are printed out
+|   2   | [nums.dat]      | Numbers to be read in by the program         |
+|   3   | [nums_test.dat] | Numbers to be read in by the program  |
+|   4   | [myTest.dat]    | Numbers to be read in by the program              |
+|   5   | [output.txt]    | Formatted output using nums_test.dat              |
+
 
 
 ### Instructions
