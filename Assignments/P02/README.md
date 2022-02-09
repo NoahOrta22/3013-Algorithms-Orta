@@ -2,7 +2,7 @@
 ### Noah Orta
 ### Description:
 
-Lets the user type in a substring a letter at a time, then searches a 
+Let's the user type in a substring a letter at a time, then searches a 
 dictionary of words for possible matches. 
 
 ### Files
