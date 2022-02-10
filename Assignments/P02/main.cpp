@@ -332,7 +332,7 @@ int main() {
     //cout << "Last character input: " << n << endl;         // prints out the letter they just typed in
 
     if(word.size()) {                                        // the word has at least one letter
-      cout << "Current Substring: " << termcolor::blue << word << termcolor::reset << "\n\n";                                // prints out the word so far
+      cout << "Current Substring: " << termcolor::blue << word << termcolor::reset << "\n\n"; // prints out the word so far
       T.Start();
       dic.search(word);
       T.End();
