@@ -3,8 +3,8 @@
 ### Description:
 
 Let's the user type in a substring a letter at a time, then searches a 
-dictionary of words for possible matches. Implementation uses a trie tree
-data structure.
+dictionary of words for possible matches. 
+Implementation uses a trie tree data structure.
 
 ### Files
 
